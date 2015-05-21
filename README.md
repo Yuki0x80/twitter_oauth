@@ -1,4 +1,4 @@
-# twitter_oauth
+# Python Django twitter_oauth 
 Ubuntu 14.04.2 LTS<br>
 Python ver:2.7.6<br>
 Django ver:1.6.1<br>
